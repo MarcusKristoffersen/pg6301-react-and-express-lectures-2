@@ -1,0 +1,19 @@
+{
+  "name": "pg6301-react-and-express-lectures-2",
+  "version": "1.0.0",
+  "description": "Add, show and comment movies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcusKristoffersen/pg6301-react-and-express-lectures-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcusKristoffersen/pg6301-react-and-express-lectures-2/issues"
+  },
+  "homepage": "https://github.com/MarcusKristoffersen/pg6301-react-and-express-lectures-2#readme"
+}
