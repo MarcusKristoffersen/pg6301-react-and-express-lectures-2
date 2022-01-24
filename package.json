@@ -36,5 +36,8 @@
       "@babel/preset-env",
       "@babel/preset-react"
     ]
+  },
+  "jest": {
+    "testEnvironment": "jsdom"
   }
 }
