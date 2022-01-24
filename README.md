@@ -3,10 +3,10 @@
 * [x] Create a React application
     * [x] package.json - npm run dev/npm run start
     * [x] parcel
-    * [ ] React Router
-* [ ] Show existing movies
-* [ ] Add new movies
-    * [ ] useState, useEffect
+    * [x] React Router
+* [x] Show existing movies
+* [x] Add new movies
+    * [x] useState, useEffect
 * [ ] Run jest test
 * [ ] Snapshot test
     * [ ] useContext
